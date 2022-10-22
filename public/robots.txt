@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hanimerlon.github.io/sitemap.xml
